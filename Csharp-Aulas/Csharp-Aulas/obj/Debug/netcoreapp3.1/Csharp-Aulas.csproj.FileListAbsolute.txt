@@ -12,3 +12,17 @@ C:\Users\ander\Documents\CSHARP\Aulas\Csharp-Aulas\Csharp-Aulas\obj\Debug\netcor
 C:\Users\ander\Documents\CSHARP\Aulas\Csharp-Aulas\Csharp-Aulas\obj\Debug\netcoreapp3.1\Csharp-Aulas.dll
 C:\Users\ander\Documents\CSHARP\Aulas\Csharp-Aulas\Csharp-Aulas\obj\Debug\netcoreapp3.1\Csharp-Aulas.pdb
 C:\Users\ander\Documents\CSHARP\Aulas\Csharp-Aulas\Csharp-Aulas\obj\Debug\netcoreapp3.1\Csharp-Aulas.genruntimeconfig.cache
+C:\Users\ander\Documents\CSHARP\Aulas\Code_Csharp\Csharp-Aulas\Csharp-Aulas\bin\Debug\netcoreapp3.1\Csharp-Aulas.exe
+C:\Users\ander\Documents\CSHARP\Aulas\Code_Csharp\Csharp-Aulas\Csharp-Aulas\bin\Debug\netcoreapp3.1\Csharp-Aulas.deps.json
+C:\Users\ander\Documents\CSHARP\Aulas\Code_Csharp\Csharp-Aulas\Csharp-Aulas\bin\Debug\netcoreapp3.1\Csharp-Aulas.runtimeconfig.json
+C:\Users\ander\Documents\CSHARP\Aulas\Code_Csharp\Csharp-Aulas\Csharp-Aulas\bin\Debug\netcoreapp3.1\Csharp-Aulas.runtimeconfig.dev.json
+C:\Users\ander\Documents\CSHARP\Aulas\Code_Csharp\Csharp-Aulas\Csharp-Aulas\bin\Debug\netcoreapp3.1\Csharp-Aulas.dll
+C:\Users\ander\Documents\CSHARP\Aulas\Code_Csharp\Csharp-Aulas\Csharp-Aulas\bin\Debug\netcoreapp3.1\Csharp-Aulas.pdb
+C:\Users\ander\Documents\CSHARP\Aulas\Code_Csharp\Csharp-Aulas\Csharp-Aulas\obj\Debug\netcoreapp3.1\Csharp-Aulas.csproj.AssemblyReference.cache
+C:\Users\ander\Documents\CSHARP\Aulas\Code_Csharp\Csharp-Aulas\Csharp-Aulas\obj\Debug\netcoreapp3.1\Csharp-Aulas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Documents\CSHARP\Aulas\Code_Csharp\Csharp-Aulas\Csharp-Aulas\obj\Debug\netcoreapp3.1\Csharp-Aulas.AssemblyInfoInputs.cache
+C:\Users\ander\Documents\CSHARP\Aulas\Code_Csharp\Csharp-Aulas\Csharp-Aulas\obj\Debug\netcoreapp3.1\Csharp-Aulas.AssemblyInfo.cs
+C:\Users\ander\Documents\CSHARP\Aulas\Code_Csharp\Csharp-Aulas\Csharp-Aulas\obj\Debug\netcoreapp3.1\Csharp-Aulas.csproj.CoreCompileInputs.cache
+C:\Users\ander\Documents\CSHARP\Aulas\Code_Csharp\Csharp-Aulas\Csharp-Aulas\obj\Debug\netcoreapp3.1\Csharp-Aulas.dll
+C:\Users\ander\Documents\CSHARP\Aulas\Code_Csharp\Csharp-Aulas\Csharp-Aulas\obj\Debug\netcoreapp3.1\Csharp-Aulas.pdb
+C:\Users\ander\Documents\CSHARP\Aulas\Code_Csharp\Csharp-Aulas\Csharp-Aulas\obj\Debug\netcoreapp3.1\Csharp-Aulas.genruntimeconfig.cache
