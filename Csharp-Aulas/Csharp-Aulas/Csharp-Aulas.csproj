@@ -6,4 +6,9 @@
     <RootNamespace>Csharp_Aulas</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Entities\Seção 11 - Tratamento de Exceções\" />
+    <Folder Include="Entities\Seção 14 - Interfaces\" />
+  </ItemGroup>
+
 </Project>

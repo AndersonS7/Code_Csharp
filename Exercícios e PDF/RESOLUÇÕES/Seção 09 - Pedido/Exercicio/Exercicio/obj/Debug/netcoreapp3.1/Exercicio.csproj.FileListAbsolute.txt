@@ -1,0 +1,14 @@
+C:\Users\ander\Documents\CSHARP\Aulas\Code_Csharp\Exercícios e PDF\Resoluções\Seção 09 - Pedido\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.exe
+C:\Users\ander\Documents\CSHARP\Aulas\Code_Csharp\Exercícios e PDF\Resoluções\Seção 09 - Pedido\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.deps.json
+C:\Users\ander\Documents\CSHARP\Aulas\Code_Csharp\Exercícios e PDF\Resoluções\Seção 09 - Pedido\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.runtimeconfig.json
+C:\Users\ander\Documents\CSHARP\Aulas\Code_Csharp\Exercícios e PDF\Resoluções\Seção 09 - Pedido\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.runtimeconfig.dev.json
+C:\Users\ander\Documents\CSHARP\Aulas\Code_Csharp\Exercícios e PDF\Resoluções\Seção 09 - Pedido\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.dll
+C:\Users\ander\Documents\CSHARP\Aulas\Code_Csharp\Exercícios e PDF\Resoluções\Seção 09 - Pedido\Exercicio\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.pdb
+C:\Users\ander\Documents\CSHARP\Aulas\Code_Csharp\Exercícios e PDF\Resoluções\Seção 09 - Pedido\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.csproj.AssemblyReference.cache
+C:\Users\ander\Documents\CSHARP\Aulas\Code_Csharp\Exercícios e PDF\Resoluções\Seção 09 - Pedido\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Documents\CSHARP\Aulas\Code_Csharp\Exercícios e PDF\Resoluções\Seção 09 - Pedido\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.AssemblyInfoInputs.cache
+C:\Users\ander\Documents\CSHARP\Aulas\Code_Csharp\Exercícios e PDF\Resoluções\Seção 09 - Pedido\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.AssemblyInfo.cs
+C:\Users\ander\Documents\CSHARP\Aulas\Code_Csharp\Exercícios e PDF\Resoluções\Seção 09 - Pedido\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\ander\Documents\CSHARP\Aulas\Code_Csharp\Exercícios e PDF\Resoluções\Seção 09 - Pedido\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.dll
+C:\Users\ander\Documents\CSHARP\Aulas\Code_Csharp\Exercícios e PDF\Resoluções\Seção 09 - Pedido\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.pdb
+C:\Users\ander\Documents\CSHARP\Aulas\Code_Csharp\Exercícios e PDF\Resoluções\Seção 09 - Pedido\Exercicio\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.genruntimeconfig.cache
